@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+char topic;
+printf("enter the topic")
+ scanf("%c",&topic);
+(topic=='A'||topic=='B'||topic=='C')?
+printf("yes\n");
+prinf("no\n");
+	return 0;
+}
